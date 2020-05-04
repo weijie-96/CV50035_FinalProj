@@ -13,6 +13,7 @@ Paper : https://faculty.ucmerced.edu/mhyang/papers/cvpr2018_dyanmic_scene_deblur
 This is a Keras implementation of deblurring using Conditional GAN. </br>
 File Name: GAN_Model.ipynb </br>
 Paper : https://arxiv.org/pdf/1711.07064.pdf </br>
+Modified from : https://github.com/RaphaelMeudec/deblur-gan
 
 ### YOLO Object Detection Experiment:
 Using YOLOv3 Network, We evaluated the effectiveness of the deblurring models stated above by quantifying the "recognizability" of objects after deblurring. </br>
