@@ -18,7 +18,7 @@ Paper : https://arxiv.org/pdf/1711.07064.pdf </br>
 Using YOLOv3 Network, We evaluated the effectiveness of the deblurring models stated above by quantifying the "recognizability" of objects after deblurring. </br>
 File Name : YOLO_evaluation/yolo_evaluation.py
 
-### YOLO Object Detection Experiment:
+### Pytesseract Text Recognition Experiment:
 Using pytesseract OCR tool, We evaluated the effectiveness of the deblurring models in deblurring images of texts. </br>
 File Name : textrecognition_evaluation.py </br>
 
