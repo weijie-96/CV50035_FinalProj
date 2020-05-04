@@ -2,6 +2,7 @@
 
 Our trained weights: https://drive.google.com/drive/folders/1qzUKDLmBP_ubXKE6rfcx_XgYJp4kIWcM
 
+
 ### Spatially Varying RNN
 This is a tensorflow implementation of a Spatially Variant RNN. </br>
 File Name: Spatially_Varying_RNN.ipynb
@@ -20,4 +21,11 @@ File Name : YOLO_evaluation/yolo_evaluation.py
 ### YOLO Object Detection Experiment:
 Using pytesseract OCR tool, We evaluated the effectiveness of the deblurring models in deblurring images of texts.
 File Name : textrecognition_evaluation.py
+
+### Datasets Used: 
+#### Training: 
+Gopro Large Dataset: https://drive.google.com/file/d/1H0PIXvJH4c40pk7ou6nAwoxuR4Qh_Sa2/view
+#### Testing:
+Kaggle: https://www.kaggle.com/kwentar/blur-dataset
+Human aware Image DEblurring(HIDE) Dataset: https://www.dropbox.com/s/04w3wqxcuin9dy8/HIDE_dataset.zip?dl=0
 
